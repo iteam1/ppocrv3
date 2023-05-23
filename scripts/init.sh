@@ -3,3 +3,4 @@
 
 pip install -r PaddleOCR/requirements.txt
 pip install paddlepaddle-gpu
+pip install paddlepaddle
