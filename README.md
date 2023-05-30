@@ -3,6 +3,10 @@ paddleOCR repo ready to train
 
 # references
 
+http://www.eadst.com/blog/156
+
+https://pypi.org/project/ppma/
+
 https://github.com/PaddlePaddle/PaddleOCR
 
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/models_list_en.md#23-multilingual-recognition-modelupdating
