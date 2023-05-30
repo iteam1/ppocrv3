@@ -3,6 +3,8 @@ paddleOCR repo ready to train
 
 # references
 
+https://www.paddlepaddle.org.cn/documentation/docs/en/api/index_en.html
+
 http://www.eadst.com/blog/156
 
 https://pypi.org/project/ppma/
