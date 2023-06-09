@@ -14,19 +14,33 @@ CUDA_VISIBLE_DEVICES=1 python3 PaddleOCR/tools/train.py -c myconfigs/ch_PP-OCRv3
 CUDA_VISIBLE_DEVICES=1 python3 PaddleOCR/tools/eval.py -c myconfigs/ch_PP-OCRv3_det_dml.yml -o Global.checkpoints=./output/ch_PP-OCR_v3_det_white_fg/lastest
 
 # train rec
-CUDA_VISIBLE_DEVICES=0 python3 PaddleOCR/tools/train.py -c myconfigs/ch_PP-OCRv3_rec.yml \
- -o Global.pretrained_model=./pretrain_models/ch_PP-OCRv3_rec_train/best_accuracy\
+CUDA_VISIBLE_DEVICES=1 python3 PaddleOCR/tools/train.py -c myconfigs/rec.yml
+
+CUDA_VISIBLE_DEVICES=1 python3 PaddleOCR/tools/train.py -c myconfigs/rec_svtr_large_10local_11global_stn_en.yml \
+ -o Global.pretrained_model=./pretrain_models/rec_svtr_large_none_ctc_en_train/best_accuracy.pdparams\
     Global.character_dict_path=PaddleOCR/ppocr/utils/en_dict.txt \
     Global.epoch_num=1000
 
 # predict rec
-python3 PaddleOCR/tools/infer_rec.py -c myconfigs/ch_PP-OCRv3_rec.yml \
--o Global.pretrained_model=outputs/rec/best_accuracy \
+CUDA_VISIBLE_DEVICES=1 python3 PaddleOCR/tools/infer_rec.py -c myconfigs/rec.yml \
+-o Global.pretrained_model=outputs/rec2/latest \
 Global.character_dict_path=PaddleOCR/ppocr/utils/en_dict.txt \
- Global.infer_img=debug/crop_img/Qtcam_23_04_17_13_53_56-1_crop_1.jpg
+ Global.infer_img=debug/crop_img/Qtcam_23_04_17_13_53_56-1_crop_4.jpg
+
+python3 PaddleOCR/tools/infer_rec_custom.py -c myconfigs/ppocrv3_rec.yml \
+-o Global.pretrained_model=pretrain_models/en_PP-OCRv3_rec_train/best_accuracy \
+Global.character_dict_path=PaddleOCR/ppocr/utils/en_dict.txt \
+ Global.infer_img=debug/crop_img/Qtcam_23_04_17_13_53_56-1_crop_4.jpg
+
+python3 PaddleOCR/tools/infer_rec_custom.py -c myconfigs/rec.yml \
+-o Global.pretrained_model=outputs/rec2/latest Global.character_dict_path=PaddleOCR/ppocr/utils/en_dict.txt  Global.infer_img=debug/test/crop6.jpg Global.use_gpu=false
 
 # export model
-python3 PaddleOCR/tools/export_model.py -c myconfigs/ch_PP-OCRv3_rec.yml -o Global.pretrained_model=outputs/rec/best_accuracy  Global.save_inference_dir=./inference/rec/
+python3 PaddleOCR/tools/export_model.py -c myconfigs/ppocrv3_rec.yml -o pretrain_models/en_PP-OCRv3_rec_train/best_accuracy -o Global.save_inference_dir=./inference/SVTR_retry/
+
+python3 PaddleOCR/tools/infer/predict_rec.py --image_dir='./PaddleOCR/doc/imgs_words_en/word_10.png' \
+--rec_model_dir='./inference/rec/' --rec_algorithm='SVTR' --rec_image_shape='3,64,256' --rec_char_dict_path='./PaddleOCR/ppocr/utils/ic15_dict.txt'
+
    
 # train e2e
 CUDA_VISIBLE_DEVICES=1 python3 PaddleOCR/tools/train.py -c myconfigs/e2e_r50_vd_pg.yml \

@@ -1,0 +1,215 @@
+crop_img/Qtcam_23_04_17_14_30_04-2_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_04-2_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_30_04-2_crop_2.jpg	FCCID:A4RGZRNL IC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_04-2_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_04-2_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_04-2_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_04-2_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_54_07-1_crop_0.jpg	TS
+crop_img/Qtcam_23_04_17_13_54_07-1_crop_1.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_54_07-1_crop_2.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_54_07-1_crop_3.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_54_07-1_crop_4.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_54_07-1_crop_5.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_53_56-1_crop_0.jpg	US
+crop_img/Qtcam_23_04_17_13_53_56-1_crop_1.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_53_56-1_crop_2.jpg	ITEE350912
+crop_img/Qtcam_23_04_17_13_53_56-1_crop_3.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_53_56-1_crop_4.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_53_56-1_crop_5.jpg	Setup code35RNYF
+crop_img/Qtcam_23_04_17_13_53_57-1_crop_0.jpg	LISTEn
+crop_img/Qtcam_23_04_17_13_53_57-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_53_57-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_53_57-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_53_57-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_54_09-1_crop_1.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_54_09-1_crop_2.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_54_09-1_crop_3.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_54_09-1_crop_4.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_54_09-1_crop_5.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_55_08-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_55_08-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_55_08-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_55_08-1_crop_3.jpg	SN1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_55_08-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_55_22-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_55_22-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_55_22-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_55_22-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_55_22-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_55_23-1_crop_1.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_55_23-1_crop_2.jpg	1TEE350912
+crop_img/Qtcam_23_04_17_13_55_23-1_crop_3.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_55_23-1_crop_4.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_55_23-1_crop_5.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_55_24-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_55_24-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_55_24-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_55_24-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_55_24-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_55_24-1_crop_19.jpg	NULL
+crop_img/Qtcam_23_04_17_13_55_25-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_55_25-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_55_25-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_55_25-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_55_25-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_55_25-1_crop_25.jpg	TEMPORARY
+crop_img/Qtcam_23_04_17_13_55_25-1_crop_27.jpg	II
+crop_img/Qtcam_23_04_17_13_56_46-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_56_46-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_56_46-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_56_46-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_56_46-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_56_47-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_56_47-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_56_47-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_56_47-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_56_47-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_56_49-1_crop_1.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_56_49-1_crop_2.jpg	TTEE358912
+crop_img/Qtcam_23_04_17_13_56_49-1_crop_3.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_56_49-1_crop_4.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_56_49-1_crop_5.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_56_50-1_crop_1.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_56_50-1_crop_2.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_56_50-1_crop_3.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_56_50-1_crop_4.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_56_50-1_crop_5.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_56_53-1_crop_1.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_56_53-1_crop_2.jpg	ITEE350912
+crop_img/Qtcam_23_04_17_13_56_53-1_crop_3.jpg	Built in Vietnarn
+crop_img/Qtcam_23_04_17_13_56_53-1_crop_4.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_56_53-1_crop_5.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_56_53-1_crop_26.jpg	II
+crop_img/Qtcam_23_04_17_13_56_56-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_56_56-1_crop_1.jpg	1TEE358912
+crop_img/Qtcam_23_04_17_13_56_56-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_56_56-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_56_56-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_56_57-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_56_57-1_crop_1.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_13_56_57-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_56_57-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_56_57-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_13_56_57-1_crop_20.jpg	NULL
+crop_img/Qtcam_23_04_17_13_57_00-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_57_00-1_crop_1.jpg	TEE358912
+crop_img/Qtcam_23_04_17_13_57_00-1_crop_2.jpg	Built in Vietnam
+crop_img/Qtcam_23_04_17_13_57_00-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_57_00-1_crop_4.jpg	Setup code35RNYF
+crop_img/Qtcam_23_04_17_13_57_02-1_crop_0.jpg	LISTED
+crop_img/Qtcam_23_04_17_13_57_02-1_crop_1.jpg	TE358912
+crop_img/Qtcam_23_04_17_13_57_02-1_crop_2.jpg	Built in Vietnarm
+crop_img/Qtcam_23_04_17_13_57_02-1_crop_3.jpg	SN:1A221J3D51WHG7
+crop_img/Qtcam_23_04_17_13_57_02-1_crop_4.jpg	Setup code:35RNYF
+crop_img/Qtcam_23_04_17_14_28_27-1_crop_0.jpg	HMI
+crop_img/Qtcam_23_04_17_14_28_27-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_27-1_crop_2.jpg	FCCIDA4RGZRNLIC:10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_27-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_27-1_crop_4.jpg	Made inThailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_27-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_27-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_30-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_28_30-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_30-1_crop_2.jpg	FCCID:A4RGZRNLIC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_30-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_30-1_crop_4.jpg	Made inThailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_30-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_30-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_31-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_28_31-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_31-1_crop_2.jpg	FCCIDA4RGZRNL IC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_31-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_31-1_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_31-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_31-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_32-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_28_32-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_32-1_crop_2.jpg	FCCIDA4RGZRNL IC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_32-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_32-1_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_32-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_32-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_33-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_28_33-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_33-1_crop_2.jpg	FCCIDA4RGZRNLIC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_33-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_33-1_crop_4.jpg	Made inThailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_33-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_33-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_33-2_crop_0.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_33-2_crop_1.jpg	FCCIDA4RGZRNLIC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_33-2_crop_2.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_33-2_crop_3.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_33-2_crop_4.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_33-2_crop_5.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_34-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_28_34-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_34-1_crop_2.jpg	FCCIDA4RGZRNLIC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_34-1_crop_3.jpg	CANICES-3(B)/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_34-1_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_34-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_34-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_35-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_28_35-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_28_35-1_crop_2.jpg	FCCID:A4RGZRNLIC:1O395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_35-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_35-1_crop_4.jpg	Made inThailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_35-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_35-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_28_35-2_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_28_35-2_crop_1.jpg	Google ModelGZRNL
+crop_img/Qtcam_23_04_17_14_28_35-2_crop_2.jpg	FCCID:A4RGZRNLIC:10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_28_35-2_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_28_35-2_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_28_35-2_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_28_35-2_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_30_00-2_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_00-2_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_30_00-2_crop_2.jpg	FCCID:A4RGZRNLIC:10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_00-2_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_00-2_crop_4.jpg	Made inThailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_00-2_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_00-2_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_30_01-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_01-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_30_01-1_crop_2.jpg	FCCIDA4RGZRNLIC:1O395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_01-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_01-1_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_01-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_01-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_30_02-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_02-1_crop_1.jpg	Google ModelGZRNL
+crop_img/Qtcam_23_04_17_14_30_02-1_crop_2.jpg	FCCIDA4RGZRNLIC:10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_02-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_02-1_crop_4.jpg	Made inThailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_02-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_02-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_30_02-2_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_02-2_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_30_02-2_crop_2.jpg	FCCID:A4RGZRNLIC:10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_02-2_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_02-2_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_02-2_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_02-2_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_30_03-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_03-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_30_03-1_crop_2.jpg	FCCID:A4RGZRNLIC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_03-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_03-1_crop_4.jpg	Made inThailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_03-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_03-1_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_30_03-2_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_03-2_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_30_03-2_crop_2.jpg	FCCID:A4RGZRNLIC:10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_03-2_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_03-2_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_03-2_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_03-2_crop_6.jpg	ITEE358912
+crop_img/Qtcam_23_04_17_14_30_04-1_crop_0.jpg	HDMI
+crop_img/Qtcam_23_04_17_14_30_04-1_crop_1.jpg	Google Model GZRNL
+crop_img/Qtcam_23_04_17_14_30_04-1_crop_2.jpg	FCCIDA4RGZRNLIC10395A-GZRNL
+crop_img/Qtcam_23_04_17_14_30_04-1_crop_3.jpg	CANICES-3(B/NMB-3(B
+crop_img/Qtcam_23_04_17_14_30_04-1_crop_4.jpg	Made in Thailand 26141HFDD1DGN6
+crop_img/Qtcam_23_04_17_14_30_04-1_crop_5.jpg	LISTED
+crop_img/Qtcam_23_04_17_14_30_04-1_crop_6.jpg	ITEE358912
