@@ -3,6 +3,8 @@ paddleOCR repo ready to train
 
 # references
 
+[Paddle official page](https://www.paddlepaddle.org.cn/en)
+
 [Paddle API](https://www.paddlepaddle.org.cn/documentation/docs/en/api/index_en.html)
 
 [Paddle OCR repo](https://github.com/PaddlePaddle/PaddleOCR)

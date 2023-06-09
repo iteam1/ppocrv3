@@ -4,7 +4,7 @@ Global:
   epoch_num: 1000
   log_smooth_window: 20
   print_batch_step: 10
-  save_model_dir: ./outputs/rec2
+  save_model_dir: ./outputs/rec
   save_epoch_step: 200
   eval_batch_step: [0, 2000]
   cal_metric_during_train: true
@@ -18,7 +18,7 @@ Global:
   infer_mode: false
   use_space_char: true
   distributed: true
-  save_res_path: ./predict/rec2/predicts_ppocrv3.txt
+  save_res_path: ./predicts/rec/predicts_ppocrv3.txt
 
 
 Optimizer:
