@@ -17,7 +17,7 @@ repository paddleOCR ready to train on Google Colab-2023
 
 ☐ inference
 
-☐ notes
+☐ documents
 
 # Docker
 
