@@ -11,9 +11,11 @@ repository paddleOCR ready to train on Google Colab-2023
 
 ☐ example addin custom dataset `train_data`
 
+☐ labeling custom dataset with `PPOCRLabel`
+
 ☐ example notebooks
 
-☐ predictor
+☐ prediction
 
 # References
 
