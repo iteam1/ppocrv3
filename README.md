@@ -17,6 +17,8 @@ repository paddleOCR ready to train on Google Colab-2023
 
 ☐ inference
 
+☐ notes
+
 # References
 
 [datasets](https://github.com/HCIILAB/Scene-Text-Detection#11-Horizontal-Text-Datasets)
