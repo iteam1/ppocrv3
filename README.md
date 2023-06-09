@@ -3,7 +3,7 @@ repository paddleOCR ready to train on Google Colab-2023
 
 # Guide
 
-- train recognition model 
+- train recognition model [notebook](notebooks/train_rec.ipynb)
 
 - train detection model
 
