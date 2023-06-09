@@ -9,11 +9,15 @@ repository paddleOCR ready to train on Google Colab-2023
 
 # TODOs
 
-- example addin custom dataset `train_data`
-- example notebooks
-- inferencer
+☐ example addin custom dataset `train_data`
+
+☐ example notebooks
+
+☐ predictor
 
 # References
+
+[datasets](https://github.com/HCIILAB/Scene-Text-Detection#11-Horizontal-Text-Datasets)
 
 [Paddle official page](https://www.paddlepaddle.org.cn/en)
 
