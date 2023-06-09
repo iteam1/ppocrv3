@@ -15,7 +15,7 @@ repository paddleOCR ready to train on Google Colab-2023
 
 ☐ example notebooks
 
-☐ prediction
+☐ inference
 
 # References
 
