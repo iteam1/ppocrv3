@@ -19,6 +19,22 @@ repository paddleOCR ready to train on Google Colab-2023
 
 ☐ notes
 
+# Docker
+
+- Pull paddle image [here](https://hub.docker.com/r/paddlepaddle/paddle)
+
+- Run container
+
+      docker run --gpus all --shm-size=30g --name <container_name> -it -v $PWD:/home/paddle paddlepaddle/paddle:2.4.1-gpu-cuda10.2-cudnn7.6-trt7.0 /bin/bash
+
+or 
+
+    docker run --gpus all --shm-size=30g --name <container_name> -it -v $PWD:/home/paddle paddlepaddle/paddle:2.3.2-gpu-cuda10.1-cudnn7 /bin/bash
+
+- go inside container
+
+      docker exec -it paddle bash
+
 # References
 
 [datasets](https://github.com/HCIILAB/Scene-Text-Detection#11-Horizontal-Text-Datasets)
