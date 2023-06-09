@@ -1,0 +1,4 @@
+ch_PP-OCRv3_det_distill_train
+ch_PP-OCRv3_rec_train
+e2e_server_pgnetA_infer
+en_PP-OCRv3_rec_train
